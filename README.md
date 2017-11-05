@@ -4,3 +4,7 @@ I generally tend to work with Indian government datasets. They are spread over h
 
 The objective of this repository is to share collated or augmented public datasets, not necessarily restricted to government data.
 
+
+## License
+
+[ODbl](https://opendatacommons.org/licenses/odbl/summary/) - Open Database License
